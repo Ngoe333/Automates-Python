@@ -124,3 +124,5 @@
 2022-12-22 08:20:24,583 - __main__ - INFO - Weather in Berlin: 6.7
 2022-12-22 10:17:32,635 - __main__ - INFO - Token value: 1234
 2022-12-22 10:17:33,109 - __main__ - INFO - Weather in Berlin: 7.11
+2022-12-22 12:31:28,621 - __main__ - INFO - Token value: 1234
+2022-12-22 12:31:30,060 - __main__ - INFO - Weather in Berlin: 8.21
